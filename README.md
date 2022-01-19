@@ -1,4 +1,4 @@
 - Hi, I’m @tbwebs
-- I’m currently learning python, data analysis, and sql. 
-- I’m looking to collaborate on basically anything. Still trying to figure out what i like.
+- I’m currently data analysis with python, and sql. 
+- I'm open to collaborate on any project that improves the skills I have.
 - How to reach me: tbwebs14@gmail.com
