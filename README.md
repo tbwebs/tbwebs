@@ -7,5 +7,5 @@
     - Basic foundation of front-end development from The Odin Project's curriculum (https://www.theodinproject.com/)
 
 - How to reach me: 
-    Email - tbwebs14@gmail.com
-    LinkedIn - www.linkedin.com/in/tbwebs
+    - Email - tbwebs14@gmail.com
+    - LinkedIn - www.linkedin.com/in/tbwebs
