@@ -3,4 +3,4 @@
 
 - How to reach me: 
     - Email - tbwebs14@gmail.com
-    - [LinkedIn](www.linkedin.com/in/tbwebs)
+    - LinkedIn - www.linkedin.com/in/tbwebs
